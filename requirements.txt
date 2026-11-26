@@ -1,0 +1,10 @@
+# Daftar library Python yang akan otomatis diinstal oleh server Streamlit Cloud
+duckdb
+pandas
+numpy
+pyarrow
+scikit-learn
+joblib
+streamlit
+plotly
+google-genai
